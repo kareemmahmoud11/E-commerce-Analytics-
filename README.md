@@ -1,49 +1,80 @@
-# E-commerce-Analytics-
-This project analyzes the E-commerce dataset using SQL, and Power BI to uncover insights about sales performance, customer behavior, and shipping efficiency.
+# 🛒 E-commerce Analytics (SQL + Power BI)
 
-🧱 Project Workflow
-SQL Analysis (using SQL Server):
+## 📌 Project Overview
+This project provides an **end-to-end analytics solution** for an **E-commerce dataset**, using **SQL** for data querying & analysis and **Power BI** for building an interactive dashboard.  
+The goal is to uncover insights into **sales performance, customer behavior, product categories, payments, and shipping efficiency** to support business decision-making.
 
-Loaded 9+ tables
-Wrote advanced analytical queries to explore:
-Revenue trends
-Customer behavior
-Repeat purchases
-Seller performance
-Cancellation rate
-Category & payment insights
+---
 
-Power BI Dashboard:
+## 🧱 Project Workflow
 
-Built a 3-page interactive dashboard:
-Sales & Product Performance
-Customer & Market Analysis
-Shipping & Delivery Performance
-Added KPIs, bar/line/pie charts, filters
-Designed for business storytelling and decision support
+### 🔹 SQL Analysis (SQL Server)
+- Loaded **9+ relational tables** into SQL Server.  
+- Wrote advanced analytical queries to explore:
+  - Revenue trends  
+  - Customer behavior & repeat purchases  
+  - Seller performance  
+  - Cancellation & return rates  
+  - Product category insights  
+  - Payment methods analysis  
 
-🔍 Key Insights from the Dashboard
-Revenue increased steadily from early 2017, reaching a first major peak in November 2017. After a slight drop in December, it surged again in Q1 2018 before gradually declining through mid-to-late 2018.
-Categories like bed_bath_table, health_beauty, and computers_accessories led in total sales.
-Credit cards are the most used payment method, followed by boleto.
-São Paulo (SP) dominates in both customer base and revenue share.
-Most customer reviews are positive, indicating strong satisfaction.
-Average delivery time is ~12 days, with some states and sellers experiencing longer delays.
-Freight costs vary significantly by seller, affecting profitability.
+### 🔹 Power BI Dashboard
+Developed a **3-page interactive dashboard** with advanced visualization techniques:  
+1. **Sales & Product Performance** → KPIs, revenue trends, category-level sales  
+2. **Customer & Market Analysis** → Customer demographics, location, purchase behavior  
+3. **Shipping & Delivery Performance** → Freight costs, delivery delays, review scores  
 
-<img width="1440" height="808" alt="Screenshot 2025-08-30 121915" src="https://github.com/user-attachments/assets/6fac3efb-752c-4ce8-adf2-12192b3e4774" />
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="1439" height="806" alt="Screenshot 2025-08-30 122007" src="https://github.com/user-attachments/assets/43509b51-cc6f-402d-96b7-825bfafbbf54" />
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="1440" height="802" alt="Screenshot 2025-08-30 122018" src="https://github.com/user-attachments/assets/4b95f752-de53-4c61-812e-0d5616f46c45" />
+✔️ Added **KPIs, filters, bar/line/pie charts** for business storytelling  
+✔️ Designed for **executive decision-making**  
 
-🧠 Business Recommendations
-Focus marketing before peak months (Oct)
-Target mid-level categories for potential growth
-Improve logistics in states with high delay
-Support & replicate top-performing sellers
+---
 
-📌 Tools Used
-SQL Server
-Power BI
-GitHub for version control & documentation
+## 🔍 Key Insights
+- **Revenue Growth**: Sales steadily increased from early 2017, peaking in **Nov 2017**, slight dip in Dec, and surged again in **Q1 2018** before gradually declining through late 2018.  
+- **Top Categories**: `bed_bath_table`, `health_beauty`, and `computers_accessories` dominated sales.  
+- **Payment Trends**: Credit card was the most used payment method, followed by boleto.  
+- **Regional Market**: **São Paulo (SP)** led both in **customer count and revenue share**.  
+- **Customer Experience**: Majority of reviews were positive, indicating **high satisfaction**.  
+- **Delivery Efficiency**: Average delivery time ≈ **12 days**, with some states & sellers showing higher delays.  
+- **Logistics Costs**: Significant variation in freight charges impacted profitability.  
+
+---
+
+## 📊 Dashboard Screenshots
+
+![Dashboard 1](https://github.com/user-attachments/assets/6fac3efb-752c-4ce8-adf2-12192b3e4774)  
+
+---
+
+![Dashboard 2](https://github.com/user-attachments/assets/43509b51-cc6f-402d-96b7-825bfafbbf54)  
+
+---
+
+![Dashboard 3](https://github.com/user-attachments/assets/4b95f752-de53-4c61-812e-0d5616f46c45)  
+
+---
+
+## 🧠 Business Recommendations
+- 📈 **Seasonal Strategy**: Strengthen marketing campaigns in **Q4 (Oct-Nov)** to capture peak demand.  
+- 🛍️ **Category Expansion**: Invest in mid-level categories with untapped growth potential.  
+- 🚚 **Logistics Optimization**: Improve shipping performance in high-delay regions to boost satisfaction.  
+- 🤝 **Seller Development**: Support & replicate strategies of **top-performing sellers** for scalable growth.  
+
+---
+
+## 📌 Tools & Technologies
+- **SQL Server** → Data cleaning, transformation, advanced queries  
+- **Power BI** → Interactive dashboard design  
+- **GitHub** → Version control & project documentation  
+
+---
+
+## ✨ Conclusion
+This project demonstrates how **SQL + Power BI** can deliver a **comprehensive e-commerce analytics solution**, combining **data engineering, business intelligence, and storytelling**.  
+It highlights strong skills in:  
+✔️ SQL querying & data modeling  
+✔️ Dashboard building with Power BI  
+✔️ Translating raw data into **business recommendations**  
+
+📌 Ideal portfolio project for **Data Analytics & Business Intelligence roles**.
+on
